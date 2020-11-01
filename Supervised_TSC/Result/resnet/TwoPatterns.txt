@@ -1,0 +1,10 @@
+trial 1 for batch 64 : 0.99325
+trial 2 for batch 64 : 0.99125
+trial 3 for batch 64 : 0.96975
+trial 4 for batch 64 : 0.98925
+trial 5 for batch 64 : 0.9955
+trial 6 for batch 64 : 0.9965
+trial 7 for batch 64 : 0.98075
+trial 8 for batch 64 : 0.99225
+trial 9 for batch 64 : 0.99325
+trial 10 for batch 64 : 0.9965
